@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a6b72be186ba5a216b24259ae3f77cafefc21d81",
+    "author": "claudia <claudia.vitolo@gmail.com>",
+    "time": "2021-02-14 15:53:32",
+    "files": 2,
+    "merge": false,
+    "message": "Updated NEWS and cran-comments\n"
+  },
+  "remote": "https://github.com/ropensci/hddtools",
+  "pkg": "hddtools"
+}

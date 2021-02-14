@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  hddtools_vignette: hddtools_vignette.html
+last_built: 2021-07-15T00:18Z
+urls:
+  reference: https://docs.ropensci.org/hddtools/reference
+  article: https://docs.ropensci.org/hddtools/articles
+
