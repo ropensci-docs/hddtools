@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "31dfa37336f9709b525d5bc16d4fc068f1426ea0",
+    "author": "Dorothea Hug Peter <12996416+dhugpeter@users.noreply.github.com>",
+    "time": "2022-07-18 11:51:48",
+    "files": 17,
+    "merge": true,
+    "message": "Merge pull request #33 from ropensci/dev-terra\n\nRemove dependency from raster package and switch to terra"
+  },
+  "repo": "https://github.com/ropensci/hddtools",
+  "pkg": "hddtools"
+}
